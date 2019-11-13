@@ -1,2 +1,9 @@
-/* Stylesheet */
+/* Stylesheet */ 
+/* <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet"> */ 
+
+h1 {text-align: center; color:blue; font-size:20pt; font-family: "Anton", sans-serif;}
+p {text-align:left; color:pink; font-size:15pt; font-family: "Anton", sans-serif;}
+body{text-align:left; color:pink; font-size:15pt; font-family: "Anton", sans-serif;background:black;}
+img
+
 
